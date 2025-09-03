@@ -71,23 +71,3 @@ sh update-izing
 A utilização desta ferramenta é feita por sua conta e risco. O código é aberto e todos podem contribuir.
 
 Este projeto não é afiliado, associado, autorizado, endossado por, ou de qualquer forma oficialmente ligado à WhatsApp, ou a qualquer uma das suas filiais ou afiliadas. O website oficial da WhatsApp pode ser encontrado em <https://whatsapp.com>. "WhatsApp", bem como nomes, marcas, emblemas e imagens relacionadas são marcas registadas dos seus respectivos proprietários.
-
-## Recomendação de VPS boa e barata
-
--  [Powerful cloud VPS & Web hosting.](https://control.peramix.com/?affid=58)
-
-- Cupom 25% desconto "WHAZING"
-
-```bash
-WHAZING
-```
-
-#### Curtiu? Apoie o projeto!! Com sua doação, será possível continuar com as atualizações. Segue QR code (PIX)  
-
-[<img src="donate.jpg" height="160" width="180"/>](donate.jpg)
-
-## Consultoria particular
-
-Para quem gostaria de uma consultoria ou que eu faça instalação pode chamar no whatsapp (será cobrado por isso) 48 999416725
-
--  [Versão baseada no izing com Painel SaaS e API Baileys](https://github.com/cleitonme/Whazing-SaaS)
